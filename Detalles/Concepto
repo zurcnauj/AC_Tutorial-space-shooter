@@ -1,0 +1,8 @@
+Arcade de naves vertical.
+
+Objetivo:
+* Juntar la mayour cantidad de puntos posibles antes de quedarse sin puntos de vida.
+
+Forma de juntar puntos:
+* destruyendo asteroides
+* destruyendo naves enemigas.
