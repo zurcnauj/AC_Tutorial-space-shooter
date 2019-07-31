@@ -1,0 +1,45 @@
+# =============== #
+# Unidad generada #
+# =============== #
+[ Tt ] emp /
+[ Oo ] bj /
+[ Bb ] uild
+/ [ Bb ] uilds /
+/ [ Ll ] ibrary /
+sysinfo.txt
+* .stackdump
+/ Assets / AssetStoreTools *
+* .apk
+* .unitypackage
+
+# ===================================== #
+# Visual Studio / MonoDevelop generado #
+# ===================================== #
+[ Ee ] xportado [ Oo ] bj /
+.vs /
+/ * .userprefs
+/ * .csproj
+/ * .pidb
+* .pidb.meta
+/ * .suo
+/ * .sln *
+/ * .user
+/ * .unityproj
+/ * .booproj
+.consulo /
+/ * .tmp
+/ * .svd
+
+# ============ #
+# OS generado #
+# ============ #
+.DS_Store *
+._ *
+.Spotlight-V100
+.Trashes
+Icono ?
+ehthumbs.db
+[ Tt ] humbs.db
+[ Dd ] esktop.ini
+Corredor / Biblioteca / ShaderCache /
+Corredor / Biblioteca / metadatos /
