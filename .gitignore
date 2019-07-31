@@ -1,45 +1,39 @@
+# ====== #
+# extras #
+# ====== #
+Proyecto\Assets\_Complete-Game
+Proyecto\Assets\TutorialInfo
 # =============== #
-# Unidad generada #
+# Unity generated #
 # =============== #
-[ Tt ] emp /
-[ Oo ] bj /
-[ Bb ] uild
-/ [ Bb ] uilds /
-/ [ Ll ] ibrary /
-sysinfo.txt
-* .stackdump
-/ Assets / AssetStoreTools *
-* .apk
-* .unitypackage
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
 
 # ===================================== #
-# Visual Studio / MonoDevelop generado #
+# Visual Studio / MonoDevelop generated #
 # ===================================== #
-[ Ee ] xportado [ Oo ] bj /
-.vs /
-/ * .userprefs
-/ * .csproj
-/ * .pidb
-* .pidb.meta
-/ * .suo
-/ * .sln *
-/ * .user
-/ * .unityproj
-/ * .booproj
-.consulo /
-/ * .tmp
-/ * .svd
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
 
 # ============ #
-# OS generado #
+# OS generated #
 # ============ #
-.DS_Store *
-._ *
+.DS_Store
+.DS_Store?
+._*
 .Spotlight-V100
 .Trashes
-Icono ?
+Icon?
 ehthumbs.db
-[ Tt ] humbs.db
-[ Dd ] esktop.ini
-Corredor / Biblioteca / ShaderCache /
-Corredor / Biblioteca / metadatos /
+Thumbs.db
